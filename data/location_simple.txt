@@ -1,0 +1,226 @@
+Abeokuta	Lagos
+Åbo	Å.-Björneborg
+Adelaide	Südaustralien
+Adrianopel	Türkei
+Ahmadabad	Bombay
+Albany	Neuyork
+Allegheny City	Pennsylvanien
+Altona	Schleswig-Holstein
+Ambala	Dehli
+Amritsar	Pandschab
+Angers	Anjou
+Aston Manor	Warwick
+Atlanta	Georgia
+Augsburg	Schwaben
+Baltimore	Maryland
+Barmen	Düsseldorf
+Basel	Schweiz
+Beirut	Syrien
+Belfast	Antrim
+Belovár	Kroatien
+Bern	Schweiz
+Bilbao	Biscaya
+Birkenhead	Chester
+Birmingham	Warwick
+Biskra	Algerien
+Blackburn	Lancaster
+Bogotá	Kolumbien
+Bolton	Lancaster
+Bordeaux	Gironde
+Bradford	York
+Brest	Finistère
+Bridgeport	Connecticut
+Brighton	Sussex
+Bristol	Gloucester
+Brussa	Kleinasien
+Brüssel	Brabant
+Budapest	Pest-Pilis-Solt-Kleinkumanien
+Buffalo	Neuyork
+Bukarest	Rumänien
+Burnley	Lancaster
+Calicut	Madras
+Cardiff	Glamorgan
+Cartagena	Murcia
+Castellón de la Plana	Castellón
+Charlottenburg	Potsdam
+Chicago	Staaten
+Cincinnati	Ohio
+Cleveland	Ohio
+Coventry	Warwick
+Croydon	Surrey
+Damaskus	Syrien
+Darmstadt	Starkenburg
+Dayton	Ohio
+Debreczin	Heiduckenkomitat
+Dehli	Pandschab
+Denver	Colorado
+Detroit	Michigan
+Devonport	Devon
+Dijon	Côte-d'Or
+Distrito federal	Mexiko
+Doljiu	Rumänien
+Dortmund	Arnsberg
+Duisburg	Düsseldorf am Rhein
+Dundee	Forfar
+East Ham	Essex
+Elberfeld	Düsseldorf
+Essen	Düsseldorf
+Falciu	Rumänien
+Fall River	Massachusetts
+Fat-schan	Kwang-tung
+Fu-tschou	Fu-kien
+Gaja	Bengalen
+Gateshead	Durham
+Gefle	Gefleborg
+Gelsenkirchen	Arnsberg
+Gent	Ostflandern
+Göteborg	Westergötland
+Govan	Lanark
+Grand Rapids	Michigan
+Greenwich	Kent
+Ham-höng	Süd-Ham-gjöng
+Hang-tschou	Tsche-kiang
+Han-jang	Hu-pe
+Han-kou	Hu-pe
+Hartford	Connecticut
+Haura	Bengalen
+Havre	Seine-Inférieure
+Helsingfors	Nyland
+Hiogo	Setsu
+Hiroshima	Aki
+Huddersfield	York
+Hu-tschou	Tsche-kiang
+Ilfov	Rumänien
+Indianapolis	Indiana
+Jersey City	Neujersey
+Kai-feng	Honan
+Kaisarîe	Angora
+Kanasawa	Kaga
+Kansas City	Missouri
+Kánton	Kwang-tung
+Kapstadt	Kapkolonie
+Karatschi	Bombay
+Kensington	Middlesex
+Kiel	Schleswig
+Kischinéw	Bessarabien
+Kopenhagen	Dänemark
+Krefeld	Düsseldorf
+Kristiania	Norwegen
+Kronstadt	Siebenbürgen
+Lan-tschou	Kan-su
+La Plata	Buenos Aires
+Leeds	York
+Leith	Midlothian
+Lemberg	Kronlandes Galizien
+Leyton	Essex
+Lima	Republik Peru
+Limoges	Haute-Vienne
+Lissabon	Portugal
+Liverpool	Lancaster
+Lódz	Petrokow
+London	Reichs
+Louisville	Kentucky
+Lowell	Massachusetts
+Lynn	Massachusetts
+Lyon	Rhône
+Manchester	Lancaster
+Mandale	Birma
+Manila	Philippinen
+Maria-Theresiopel	Bács-Bodrog
+Marseille	Bouches du-Rhône
+Melbourne	Victoria
+Memphis	Tennessee
+Messina	auf Sizilien
+Middlesbrough	York
+Milwaukee	Wisconsin
+Minneapolis	Minnesota
+Montevideo	Republik Uruguay
+Multan	Pandschab
+Muradabad	Vereinigten Provinzen
+Muscel	der Großen Walachei
+Nagoja	Ken Aitschi
+Nancy	Meurthe-et-Moselle
+Nantes	Loire-Inférieure
+Nan-tschang	Kiang-si
+Nashville	Tennessee
+Neapel	Sizilien
+Neuorlens	Louisiana
+Newark	Neujersey
+Newcastle	Northumberland
+New Haven	Connecticut
+Newport	Monmouth
+Nikolájew	Cherson
+Nîmes	Gard
+Nizza	Alpes-Maritimes
+Norwich	Norfolk
+Oakland	Kalifornien
+Oldham	Lancaster
+Oporto	Minho
+Paisley	Renfrew
+Paterson	Neujersey
+Pittsburgh	Pennsylvanien
+Porto Alegre	Rio Grande do Sul
+Preston	Lancaster
+Puna	Bombay
+Quito	Ecuador
+Rangun	Birma
+Rawalpindi	Pandschab
+Reading	Berkshire
+Reims	Marne
+Rennes	Ille-et-Vilaine
+Riga	Livland
+Rochdale	Lancaster
+Rochester	Neuyork
+Rouen	Normandie
+Rudnik	Serbien
+Saint-Etienne	Loire
+Saint Helens	Lancaster
+Saint Joseph	Missouri
+Saint Louis	Missouri
+Saint Paul	Minnesota
+Salem	Madras
+Salford	Lancaster
+San Francisco	Kalifornien
+Scholapur	Bombay
+Scholong	Kotschinchina
+Scranton	Pennsylvanien
+Seattle	Washington
+Sheffield	York
+Shitómir	Wolhynien und Kreisstadt
+Southampton	Hampshire
+South Shields	Durham
+Stockport	Chester
+Stormarn	Schleswig
+Surat	Bombay
+Swansea	Wales
+Syracuse	Neuyork
+Szegedin	Csongrád
+Täbrîs	Aserbeidschân
+Tai-jüen	Schan-si
+Tam-sui	Insel Formosa
+Taschkent	Russ.-Zentralasien
+Toledo	Ohio
+Toronto	Ontario
+Toulouse	Haute-Garonne
+Tourcoing	Nord
+Trenton	Neujersey
+Trichinopoly	Madras
+Triést	Küstenlande
+Troy	Neuyork
+Tschang-scha	Hu-nan
+Tscheng-tu-fu	Sze-tschwan
+Tsi-nan-fu	Schan-tung
+Tutova	Moldau
+Upsala	Upsala
+Vâlcea	Rumänien
+Wallis	Schweiz
+Walsall	Stafford
+Walthamstow	Essex
+Washington	Amerika
+West Derby	Lancaster
+Wigan	Lancaster
+Willesden	Middlesex
+Wilmington	Delaware
+Wolverhampton	Stafford
+Wu-tschang	Hu-pe
+Ystradyfodwg	Wales
